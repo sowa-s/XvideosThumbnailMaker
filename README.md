@@ -9,11 +9,7 @@ If OGP tag is also set thumbnail of sites outside xvideos you can get.
 
 Please install.
 ```
-pip install flask
-pip install Flask-RESTful
-pip install BeautifulSoup
-pip install opengraph
-pip install requests
+pip install -r requirements.txt
 ```
 Start Up
 ```

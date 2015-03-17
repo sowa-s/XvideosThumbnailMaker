@@ -1,0 +1,5 @@
+flask
+Flask-RESTful
+BeautifulSoup
+opengraph
+requests
